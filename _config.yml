@@ -23,7 +23,7 @@ footer:
       value: fengdanye@protonmail.com
       link: fengdanye@protonmail.com
     - name: WeChat
-      value: YourWeChatUsername
+      value:
       link: "#"
   follow:
     - name: Twitter
