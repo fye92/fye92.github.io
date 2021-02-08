@@ -22,21 +22,14 @@ footer:
     - name: Email
       value: fengdanye@protonmail.com
       link: fengdanye@protonmail.com
-    - name: WeChat
-      value:
-      link: "#"
   follow:
     - name: Twitter
       link: http://twitter.com/YeFengdan
       username: "@YeFengdan"
-    - name: Facebook
-      link: 
     - name: LinkedIn
       link: http://linkedin.com/in/fengdanye
     - name: GitHub
       link: http://github.com/fye92
-    - name: Dribbble
-      link: 
     - name: RSS
       link: /feed.xml
 
