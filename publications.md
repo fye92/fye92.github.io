@@ -3,7 +3,7 @@ layout: default
 title: Publications
 slug: /publications
 ---
-#### Publications
+# Publications
 
 **F. Ye**, Q. Funk, E. Rockers, M.B. Pascual, and J.C. Masdeu. In preparation.
 
