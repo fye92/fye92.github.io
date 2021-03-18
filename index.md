@@ -12,3 +12,5 @@ profile_picture:
 How to pronounce my name (Fengdan Ye):
 * IPA: fʌŋ dan jɛ
 * fuhng-dahn yeh 
+
+Check out my machine learning tutorials here: <https://fye92.github.io/2021/02/08/ML-tutorials>.
