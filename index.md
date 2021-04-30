@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Hi! My name is Fengdan. I am a physics PhD specialized in mathematical modeling of complex biological system. My current research interests lie in the application of network theory to understand human brain networks of the healthy and diseased.
+  Hi! My name is Fengdan. I am a physics PhD specialized in mathematical modeling of complex biological system. My current research interests lie in the application of data science techniques to understand human brain networks of the healthy and diseased.
 </p>
 
 How to pronounce my name (Fengdan Ye):

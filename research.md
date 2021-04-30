@@ -14,7 +14,8 @@ items:
       alt: sand
     description: This is a description.
 ---
-
-This page is under construction...
+My research focuses on establishing whole-brain functional networks from
+neuroimaging data (e.g. functional MRI, PET) and studying the structures of these networks.
+Here are a few examples of what I have been doing:
 <br />
 <br />
